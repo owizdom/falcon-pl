@@ -21,7 +21,7 @@ Let's go! All that is needed right now is nothing but the Python programming lan
 
 ON LINUX:
 
-```bash python3 shell.py```
+```python3 shell.py```
 
 
 Other platforms will be out (maybe...).
@@ -54,7 +54,7 @@ Well, that's a wrap.
 
 I am Wisdom, the author of this project, and I am...
 
-How to reach me: +2349067339981 (offer lasts for a while... lol)
+How to reach me:
 
 PS: Feel free to fork, contribute, and do whatsoever you like, and I am open for correction in any place I made an error.
 
