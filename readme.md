@@ -2,6 +2,7 @@
 
 The name Falcon was used for this project due to it being the first name ELON MUSK gave to his SpaceX first rocket.
 
+
 ## ELON MUSK
 
 The Falcon programming language is a not-so-capable programming language that was developed as a side project. It is capable of performing BASIC ARITHMETIC OPERATIONS for now and would be updated shortly after the official release if "wisdom" gets back his mojo for it, lol (for now, use it to learn).
@@ -56,6 +57,10 @@ I am Wisdom, the author of this project, and I am...
 
 How to reach me:
 
-PS: Feel free to fork, contribute, and do whatsoever you like, and I am open for correction in any place I made an error.
+
+PS: It is an Open Source Project.
+Feel free to fork, contribute, and do whatsoever you like, and I am open for correction in any place I made an error.
+
+
 
 
